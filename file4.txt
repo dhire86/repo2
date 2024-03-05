@@ -1,0 +1,3 @@
+this is forth file
+adding few lines after modify
+To chdeck same file in stage nd working directory 
