@@ -1,2 +1,0 @@
-this is first file txt created for git
-Also modified this file again
