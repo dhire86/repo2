@@ -1,2 +1,0 @@
-This is master file txt
-this is child branch txt for the same file 8
